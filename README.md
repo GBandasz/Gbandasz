@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme Bandasz
+# Guilherme Bandasz
 
 **`Cientista e Analista de Dados`**
 
